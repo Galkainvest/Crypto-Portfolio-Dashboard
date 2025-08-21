@@ -1,0 +1,6 @@
+[
+  { "symbol": "BTC", "amount": 0.05, "buy_price_usd": 52000 },
+  { "symbol": "ETH", "amount": 1.2,  "buy_price_usd": 2900 },
+  { "symbol": "SOL", "amount": 25,   "buy_price_usd": 135 },
+  { "symbol": "USDT","amount": 800,  "buy_price_usd": 1 }
+]
